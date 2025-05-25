@@ -1,0 +1,21 @@
+Drill report for led_light.kicad_pcb
+Created on 2025-05-25T14:30:52+0530
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'led_light-PTH.drl' contains
+    plated through holes:
+    =============================================================
+
+    Total plated holes count 0
+
+
+Drill file 'led_light-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0
